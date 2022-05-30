@@ -1,0 +1,22 @@
+﻿@model FutureAgeModel
+@{
+    ViewBag.Title = "Future Age Calculator";
+}
+
+<h1>Future Age Calculator</h1>
+<form asp-action="Index" method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="Name">Name: </label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="BirthYear">Birth Year: </label>
+        <input asp-for="BirthYear" />
+    </div>
+    <button type="submit">Calculate</button>
+    <a asp-action="Index">Clear</a>
+    <div>
+        <h3>@ViewBag.FV</h3>
+    </div>
+</form>
