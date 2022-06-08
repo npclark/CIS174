@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pPQpnAJkslYdHcp1S7Rx58HokqU1IAKtrN0KEcjM9h+9HRCCG8XkmAeNLBT8ldrrBiMslMa+fV9zY7jKVZ4fg==",
+  "dgSpecHash": "b4XSg8SJPVU6Qig4eE5iCiJtbsVEWCeKASeZifOzOxc/eizH5m/sJqjvpUHflRblJwIgHLE0G3F3fnkvIYElXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Noah\\source\\repos\\C#\\MovieListApp\\MovieListApp\\MovieListApp.csproj",
+  "projectFilePath": "C:\\Users\\Noah\\source\\repos\\C#\\CIS174\\MovieListApp\\MovieListApp\\MovieListApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Noah\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Noah\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
