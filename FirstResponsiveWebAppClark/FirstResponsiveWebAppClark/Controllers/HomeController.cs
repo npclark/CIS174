@@ -18,6 +18,7 @@ namespace FirstResponsiveWebAppClark.Controllers
             if (ModelState.IsValid)
             {
                 ViewBag.FV = model.AgeThisYear();
+                ViewBag.Name = model.Name;
             }
             else
             {

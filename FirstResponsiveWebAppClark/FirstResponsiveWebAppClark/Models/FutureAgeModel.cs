@@ -15,11 +15,17 @@ namespace FirstResponsiveWebAppClark.Models
         [Range (1900, 2022, ErrorMessage ="Please enter a year between 1900 and 2022")]
         public int? BirthYear { get; set; }
 
-        public String AgeThisYear()
+        public FutureAgeModel (string Name, int? BirthYear)
+        {
+            this.Name = Name;
+            this.BirthYear = BirthYear;
+        }
+
+        public int? AgeThisYear()
         {
             const int CURRENT_YEAR = 2022;
             int? age = CURRENT_YEAR - BirthYear;
-            return "Hello " + Name + " at the end of the year, you will be " + age.ToString();
+            return age;
         }
     }
 }
