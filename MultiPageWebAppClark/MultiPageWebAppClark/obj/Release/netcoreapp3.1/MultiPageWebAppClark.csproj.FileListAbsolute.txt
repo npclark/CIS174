@@ -78,3 +78,7 @@ C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\o
 C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\MultiPageWebAppClark.dll
 C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\MultiPageWebAppClark.pdb
 C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\MultiPageWebAppClark.genruntimeconfig.cache
+C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Contact\Add.cshtml.g.cs
+C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Contact\Delete.cshtml.g.cs
+C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Noah\source\repos\C#\CIS174\MultiPageWebAppClark\MultiPageWebAppClark\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Pirvacy.cshtml.g.cs

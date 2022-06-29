@@ -53,6 +53,15 @@ namespace MultiPageWebAppClark
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "paging",
+                    pattern: "{controller}/{action}/{id}/page{page}");
+
+                endpoints.MapAreaControllerRoute(
+                    name: "admin",
+                    areaName: "Admin",
+                    pattern: "Admin/{controller=Home}/{action=index}/{id?}");
+
+                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
